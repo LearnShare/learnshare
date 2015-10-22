@@ -52,11 +52,11 @@ Package Control 可以用来安装/卸载插件、主题，并保持插件、主
 
 插件：
 
-1. [Emmet](https://github.com/sergeche/emmet-sublime) Emmet 的 Sublime 支持
-2. [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify) 可以用来格式化 HTML/CSS/JS 代码
-3. [LESS](https://github.com/danro/Less-sublime) 提供了 LESS 代码的高亮
++ [Emmet](https://github.com/sergeche/emmet-sublime) Emmet 的 Sublime 支持
++ [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify) 可以用来格式化 HTML/CSS/JS 代码
++ [LESS](https://github.com/danro/Less-sublime) 提供了 LESS 代码的高亮
 
 主题：
 
-1. [Theme - Soda](https://github.com/buymeasoda/soda-theme/) 提供了黑、白两种颜色的主题，比较细腻
-2. [Material Theme](https://github.com/equinusocio/material-theme) 遵循 Material Design 的主题，提供了三种配色
++ [Theme - Soda](https://github.com/buymeasoda/soda-theme/) 提供了黑、白两种颜色的主题，比较细腻
++ [Material Theme](https://github.com/equinusocio/material-theme) 遵循 Material Design 的主题，提供了三种配色
