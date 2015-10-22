@@ -1,2 +1,4 @@
-# learnshare.xianbai.me
 My new site
+====
+
+<http://learnshare.xianbai.me/>
